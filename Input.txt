@@ -1,0 +1,4 @@
+S->aAB|AB|^
+A->aAb|^
+B->bBc|AS
+aab$
